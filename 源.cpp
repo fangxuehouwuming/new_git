@@ -3,9 +3,10 @@ using namespace std;
 
 int main()
 {
-	cout<<"Hello World!<<endl;
-	cout<<"Retest<<endl;
+	cout<<"Hello World!<<endl";
+	cout<<"Retest<<endl";
 		cout<<"what"<<endl;
+		cout << "ÄãÔÚÐ´jb";
 	int a = 1;
 	cout << "useful";
 
