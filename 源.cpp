@@ -6,7 +6,11 @@ int main()
 	cout<<"Hello World!<<endl";
 	cout<<"Retest<<endl";
 		cout<<"what"<<endl;
-		cout << "ÄãÔÚĞ´jb";
+
+		cout << "retest" << endl;
+
+		cout << "Ã„Ã£Ã”ÃšÃÂ´jb";
+
 	int a = 1;
 	cout << "useful";
 
